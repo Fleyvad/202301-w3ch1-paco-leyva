@@ -1,0 +1,30 @@
+{
+  "name": "202301-w3ch1-paco-leyva",
+  "version": "1.0.0",
+  "description": "challenge configs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fleyvad/202301-w3ch1-paco-leyva.git"
+  },
+  "author": "paco-leyva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fleyvad/202301-w3ch1-paco-leyva/issues"
+  },
+  "homepage": "https://github.com/Fleyvad/202301-w3ch1-paco-leyva#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.49.0",
+    "@typescript-eslint/parser": "^5.49.0",
+    "eslint": "^8.33.0",
+    "eslint-config-xo": "^0.43.1",
+    "eslint-config-xo-typescript": "^0.55.1",
+    "husky": "^8.0.0",
+    "jest": "^29.4.1",
+    "typescript": "^4.9.4"
+  }
+}
